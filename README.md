@@ -40,7 +40,7 @@ If the donor or association accepts the request they can collect the items and d
 
 ## The architecture
 
-![Architecture](https://github.ibm.com/kartnair/food4cause/blob/master/SolutionArchitecture_Food4Cause.png)
+![Architecture](https://github.com/shivangi2416/food4cause/blob/master/SolutionArchitecture_Food4Cause.png)
 
 - The Recipient user launches the mobile app and can access information across multiple services.
 - The Recipient user can ask questions to Watson Assistant and get answers on food/service availability questions.
@@ -50,7 +50,7 @@ If the donor or association accepts the request they can collect the items and d
 
 ## Project roadmap
 
-![Roadmap](https://github.ibm.com/kartnair/food4cause/blob/master/SolutionRoadMap_Food4Cause.png)
+![Roadmap](https://github.com/shivangi2416/food4cause/blob/master/SolutionRoadMap_Food4Cause.png)
 
 ## Built with
 
