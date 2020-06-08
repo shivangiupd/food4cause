@@ -36,7 +36,7 @@ If the donor or association accepts the request they can collect the items and d
 
 ## Demo video
 
-![Watch the video](https://youtu.be/DdcYOnDTofM)
+![Watch the video](https://github.com/shivangi2416/food4cause/blob/master/Demo_Picture.png)(https://youtu.be/DdcYOnDTofM)
 
 ## The architecture
 
